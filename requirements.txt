@@ -107,7 +107,7 @@ setproctitle==1.3.3
 six
 smmap==5.0.1
 stack-data==0.6.3
-sympy==1.12
+sympy
 tenacity==9.0.0
 threadpoolctl==3.5.0
 tifffile==2024.8.28
@@ -121,7 +121,7 @@ traitlets==5.14.3
 trimesh==4.4.7
 # triton is often a torch dependency, let torch handle it
 typing-extensions
-tzdata==2024.1
+tzdata
 urllib3==2.2.2
 wandb # Install latest stable
 wcwidth==0.2.13
@@ -129,3 +129,5 @@ werkzeug==3.0.4
 widgetsnbextension==4.0.13
 yarl==1.9.4
 zipp
+thinc==8.2.0
+spacy==3.7.0
