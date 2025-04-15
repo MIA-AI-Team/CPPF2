@@ -69,7 +69,7 @@ numpy==1.26.4
 # nvidia-* packages are usually dependencies of torch, handled by torch install
 omegaconf
 open3d
-opencv-python-headless.84 # Prefer headless in Colab
+opencv-python-headless # Prefer headless in Colab
 packaging
 pandas
 parso
