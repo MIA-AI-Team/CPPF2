@@ -55,7 +55,7 @@ jupyter-core
 jupyterlab-widgets
 kiwisolver
 lazy-loader
-lietorch==0.4
+lietorch==0.6
 lightning-utilities
 markupsafe
 matplotlib
